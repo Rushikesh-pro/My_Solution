@@ -17,6 +17,7 @@ namespace ConsoleApp1
             this.EmpId = Eid;
             this.EName = Ename;
             this.EGrossPay = EgrossPay;
+            this.EGrossPay = EgrossPay;
         }
 
         void Calculator()
